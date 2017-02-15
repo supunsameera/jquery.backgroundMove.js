@@ -1,4 +1,8 @@
-
+/*
+* jquery-backgroundMove master by sameera liyanage
+* License MIT
+$('element').backgroundMove();
+*/
 (function($){
     $.fn.backgroundMove=function(options){
             var defaults={
@@ -21,5 +25,8 @@
 
         }
 })(jQuery);
+
+
+
 
 
